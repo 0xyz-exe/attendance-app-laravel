@@ -2,6 +2,22 @@
 
 Employee attendance tracking with clock-in/out, reports, and admin dashboard.
 
+Repository: https://github.com/0xyz-exe/attendance-app-laravel
+
+## Screenshots
+
+### Attendance Clock-In / Clock-Out Dashboard
+![Attendance dashboard](docs/screenshots/01_dashboard_clock.png)
+
+### Monthly Attendance Report & Statistics
+![Monthly report](docs/screenshots/02_monthly_report.png)
+
+### Administrator Attendance Overview
+![Admin overview](docs/screenshots/03_admin_overview.png)
+
+### Authentication
+![Authentication](docs/screenshots/04_login.png)
+
 ## Features
 
 - ✅ Clock-in and clock-out
