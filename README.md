@@ -6,17 +6,12 @@ Repository: https://github.com/0xyz-exe/attendance-app-laravel
 
 ## Screenshots
 
-### Attendance Clock-In / Clock-Out Dashboard
-![Attendance dashboard](docs/screenshots/01_dashboard_clock.png)
-
-### Monthly Attendance Report & Statistics
-![Monthly report](docs/screenshots/02_monthly_report.png)
-
-### Administrator Attendance Overview
-![Admin overview](docs/screenshots/03_admin_overview.png)
-
-### Authentication
-![Authentication](docs/screenshots/04_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Dasbor Presensi Harian & Tombol Clock In/Out**<br>Panel pencatatan kehadiran mandiri dengan waktu masuk terkini, tombol clock out, ringkasan status on time/late bulanan, dan tabel log presensi | ![Dasbor Presensi Harian & Tombol Clock In/Out](docs/screenshots/01-daily-attendance-clockin.png) |
+| **Laporan & Rekapitulasi Presensi Bulanan**<br>Halaman laporan presensi bulanan dengan metrik total hari kerja, jumlah tepat waktu, keterlambatan, total akumulasi jam kerja, dan filter bulan | ![Laporan & Rekapitulasi Presensi Bulanan](docs/screenshots/02-monthly-attendance-report.png) |
+| **Monitor Kehadiran Karyawan (Admin Panel)**<br>Panel pemantauan presensi harian seluruh karyawan perusahaan dengan log jam masuk/keluar, durasi kerja, dan indikator status kehadiran | ![Monitor Kehadiran Karyawan (Admin Panel)](docs/screenshots/03-admin-presence-monitor.png) |
+| **Pengaturan Profil Karyawan & Akun**<br>Pusat pengelolaan identitas profil pengguna dan pengaturan keamanan kata sandi akun | ![Pengaturan Profil Karyawan & Akun](docs/screenshots/04-profile-account-settings.png) |
 
 ## Features
 
